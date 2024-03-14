@@ -7,7 +7,7 @@ module.exports.config = {
   description: "chat with bot",
   category: "user",
   usages: "",
-    cooldowns: 5,
+    cooldowns: 3,
 };
 
 
